@@ -1,2 +1,2 @@
-public class OutputNeuron extends Neuron{
+public class OutputNeuron{
 }
