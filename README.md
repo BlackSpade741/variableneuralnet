@@ -1,7 +1,7 @@
 # variableneuralnet
 A Neural Network Package based largely on the binaryneuralnet (@https://github.com/reecemartin/binaryneuralnet) but, with custom numbers of input and output as well as hidden layers. This means users will be able to create feed-forward networks with varying structures allowing for significantly more possible applications.
 
-What is does:
+What is does: <3
 
 
 How it works:
