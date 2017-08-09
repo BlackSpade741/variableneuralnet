@@ -1,0 +1,16 @@
+Overall:
+
+Neuron Class:
+
+InputNeuron Class:
+
+OutputNeuron Class:
+
+Weight Class:
+
+UserInterface Class:
+
+Training Class:
+
+Testing Class:
+
