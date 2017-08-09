@@ -1,14 +1,27 @@
 # variableneuralnet
 A Neural Network Package based largely on the binaryneuralnet (@https://github.com/reecemartin/binaryneuralnet) but, with custom numbers of input and output as well as hidden layers. This means users will be able to create feed-forward networks with varying structures allowing for significantly more possible applications.
 
-What is does: <3
+#What is does:
 
+Neuron Class:
 
-How it works:
+InputNeuron Class:
 
-Development Plan:
+OutputNeuron Class: 
 
-Acknowlegements:
+Weight Class:
+
+UserInterface Class:
+
+Training Class:
+
+Testing Class:
+
+#How it works:
+
+#Development Plan:
+
+#Acknowlegements:
 
 As with the binaryneuralnet (@https://github.com/reecemartin/binaryneuralnet) project, this project is largely inspired by and based on information and techniques from Jeff Heaton's videos and lectures on Neural Networks posted on Youtube: https://www.youtube.com/user/HeatonResearch
 
